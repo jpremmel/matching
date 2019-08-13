@@ -18,3 +18,17 @@
 .surprise {
   background-color: black;
 }
+
+h1 {
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.panel {
+  height: 120px;
+}
