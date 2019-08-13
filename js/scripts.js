@@ -36,4 +36,8 @@ $(document).ready(function() {
     $("#c3").addClass("surprise");
   });
 
+  $("#reset").click(function() {
+    $(".panel").css("background-color", "white");
+  });
+
 });
