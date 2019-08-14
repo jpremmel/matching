@@ -6,7 +6,7 @@
 
 ## Description
 
-_This webpage displays a grid of white panels. Upon clicking a panel, it changes color. The user's goal is to find two panels of the same color. The color of the panels can be reset to white after the user tries two panels. Currently, nothing happens when the user finds two panels of the same color - we plan to add this functionality in a future version._
+_This webpage displays a grid of white panels. Upon clicking a panel, it changes color. The user's goal is to find two panels of the same color. The color of the panels can be reset to white after the user tries two panels. Currently, nothing happens when the user finds two panels of the same color - we plan to add this functionality in a future version. The main purpose of this project was to practice adding interactivity to a webpage using JavaScript._
 
 ## Setup/Installation Requirements
 
